@@ -1,8 +1,6 @@
 # StrataFinace
 
-**Presentation Available!**
-
-Click [here](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) to get a better understanding of the project.
+**Presentation Available!** Click [here](https://docs.google.com/presentation/d/1RZidPTdfEYnw-JegUfAAka78iGbZwcCarNc6Dbd8UzE/present?slide=id.p) to view the slides.
 
 ## About
 
